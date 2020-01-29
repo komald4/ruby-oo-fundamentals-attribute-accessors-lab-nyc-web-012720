@@ -3,6 +3,6 @@ class Cat
   attr_accessor :name
 
   def name= name
-   @name 
+   @name = "Maru"
  end
 end
