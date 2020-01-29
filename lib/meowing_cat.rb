@@ -5,4 +5,9 @@ class Cat
   def name= name
    @name = "Maru"
  end
+
+ def name
+    @name
+  end
+  print "meow"
 end
