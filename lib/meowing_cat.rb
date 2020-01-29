@@ -6,7 +6,6 @@ class Cat
    @name = "Maru"
  end
 
- def name
+ 
   puts "meow"
-  @name
 end
