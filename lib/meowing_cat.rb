@@ -5,7 +5,5 @@ class Cat
   def name= name
    @name = "Maru"
  end
-
- 
-  puts "meow"
+puts lang + " is installed!"
 end
